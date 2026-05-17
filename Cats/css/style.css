@@ -1,0 +1,126 @@
+:root {
+  --bg-top: #071429;
+  --bg-bottom: #0d2a3d;
+  --panel: rgba(7, 19, 38, 0.72);
+  --panel-border: rgba(154, 222, 255, 0.22);
+  --text-main: #e8f6ff;
+  --text-soft: #99bfd4;
+  --grid: rgba(126, 196, 227, 0.18);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Avenir Next', 'Trebuchet MS', 'Gill Sans', sans-serif;
+  background: radial-gradient(circle at 10% 10%, #123a56 0%, transparent 40%),
+              radial-gradient(circle at 90% 80%, #0d4f5d 0%, transparent 35%),
+              linear-gradient(140deg, var(--bg-top), var(--bg-bottom));
+  color: var(--text-main);
+  margin: 0;
+  min-height: 100vh;
+  padding: 24px;
+}
+
+.container {
+  max-width: 980px;
+  margin: 28px auto;
+  background: var(--panel);
+  border: 1px solid var(--panel-border);
+  border-radius: 20px;
+  box-shadow: 0 16px 40px rgba(2, 9, 17, 0.45);
+  backdrop-filter: blur(8px);
+  padding: 28px 28px 30px;
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 0.03em;
+  margin: 0 0 16px;
+  font-size: clamp(1.5rem, 2.5vw, 2.2rem);
+  color: #e8f8ff;
+}
+
+#scatter {
+  width: 100%;
+  min-height: 540px;
+}
+
+#scatter svg {
+  width: 100%;
+  height: auto;
+  overflow: visible;
+}
+
+.axis text {
+  fill: var(--text-soft);
+  font-size: 0.92rem;
+}
+
+.axis-label {
+  font-size: 1rem;
+  fill: #c8e9ff;
+  letter-spacing: 0.01em;
+  font-weight: 600;
+}
+
+.axis-line {
+  stroke: rgba(148, 209, 237, 0.36);
+}
+
+.grid-line {
+  stroke: var(--grid);
+  stroke-dasharray: 2 5;
+}
+
+.dot {
+  stroke: rgba(188, 244, 255, 0.9);
+  stroke-width: 1.4px;
+  opacity: 0.95;
+  cursor: pointer;
+}
+
+.tooltip {
+  position: absolute;
+  background: rgba(6, 17, 35, 0.94);
+  color: #effbff;
+  border: 1px solid rgba(151, 220, 255, 0.36);
+  border-radius: 10px;
+  padding: 9px 12px;
+  pointer-events: none;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  box-shadow: 0 8px 26px rgba(0, 0, 0, 0.35);
+  z-index: 10;
+}
+
+.load-error {
+  color: #ffb7aa;
+  text-align: center;
+  font-weight: 600;
+  margin-top: 28px;
+}
+
+.note {
+  text-align: center;
+  color: #a8d0e2;
+  margin: 14px 0 0;
+  font-size: 0.95rem;
+}
+
+@media (max-width: 680px) {
+  body {
+    padding: 10px;
+  }
+
+  .container {
+    margin: 8px auto;
+    padding: 18px 14px 20px;
+    border-radius: 14px;
+  }
+
+  #scatter {
+    min-height: 420px;
+  }
+}

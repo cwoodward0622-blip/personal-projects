@@ -1,0 +1,66 @@
+treatment,skip_days,avg_survival
+Awareness Group,0,0.95
+Awareness Group,1,0.8933333333333333
+Awareness Group,2,0.8533333333333333
+Awareness Group,3,0.82
+Awareness Group,4,0.7766666666666666
+Awareness Group,5,0.74
+Awareness Group,6,0.7133333333333334
+Awareness Group,7,0.6833333333333333
+Awareness Group,8,0.6433333333333333
+Awareness Group,9,0.6166499999999999
+Awareness Group,10,0.5866714285714286
+Awareness Group,11,0.54
+Awareness Group,12,0.5
+Awareness Group,13,0.46666
+Awareness Group,14,0.44335
+Awareness Group,15,0.42
+Awareness Group,16,0.39665
+Awareness Group,17,0.38334999999999997
+Awareness Group,18,0.363325
+Awareness Group,19,0.32667142857142856
+Awareness Group,20,0.29664999999999997
+Awareness Group,21,0.2933
+Control,0,0.8066714285714286
+Control,1,0.7466636363636364
+Control,2,0.6833375
+Control,3,0.6333285714285715
+Control,4,0.5866714285714286
+Control,5,0.5333333333333333
+Control,6,0.48666
+Control,7,0.456675
+Control,8,0.43665
+Control,9,0.41334
+Control,10,0.38666666666666666
+Control,11,0.3733
+Control,12,0.36
+Control,13,0.34335000000000004
+Control,14,0.3133285714285714
+Control,15,0.28335
+Control,16,0.26332500000000003
+Control,17,0.2467
+Control,18,0.23665
+Control,19,0.22
+Control,20,0.20335
+Control,21,0.2
+Goal Oriented Group,0,0.9333363636363636
+Goal Oriented Group,1,0.8566666666666667
+Goal Oriented Group,2,0.7933285714285714
+Goal Oriented Group,3,0.73667
+Goal Oriented Group,4,0.6833333333333333
+Goal Oriented Group,5,0.65
+Goal Oriented Group,6,0.6166666666666667
+Goal Oriented Group,7,0.5866666666666667
+Goal Oriented Group,8,0.5633250000000001
+Goal Oriented Group,9,0.54
+Goal Oriented Group,10,0.5267
+Goal Oriented Group,11,0.50666
+Goal Oriented Group,12,0.46667142857142857
+Goal Oriented Group,13,0.43333333333333335
+Goal Oriented Group,15,0.42
+Goal Oriented Group,16,0.41000000000000003
+Goal Oriented Group,17,0.3933333333333333
+Goal Oriented Group,18,0.37665000000000004
+Goal Oriented Group,19,0.36
+Goal Oriented Group,20,0.33334
+Goal Oriented Group,21,0.32

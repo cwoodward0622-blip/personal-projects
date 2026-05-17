@@ -1,0 +1,8 @@
+Group,Knowledge_Before,Knowledge_After,Confidence_Before,Confidence_After
+Overall,82.4,100.3,22.5,33.7
+Faculty,83,99,24,34
+Student,81,100,23,33
+Staff,94,109,18,32
+Active CPR Cert,111,112,26,35
+Prior/Lapsed,83,102,25,37
+No Training,75,96,19,30

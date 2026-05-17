@@ -1,0 +1,22 @@
+[
+  {"tag_id":"Tommy-Tag","animal_sex":"m","hrs_indoors":12.5,"age_years":11,"prey_p_month":12.5},
+  {"tag_id":"Athena","animal_sex":"f","hrs_indoors":7.5,"age_years":3,"prey_p_month":3},
+  {"tag_id":"Ares","animal_sex":"m","hrs_indoors":7.5,"age_years":3,"prey_p_month":0},
+  {"tag_id":"Lola","animal_sex":"f","hrs_indoors":17.5,"age_years":10,"prey_p_month":3},
+  {"tag_id":"Maverick","animal_sex":"m","hrs_indoors":12.5,"age_years":7,"prey_p_month":3},
+  {"tag_id":"Coco","animal_sex":"f","hrs_indoors":12.5,"age_years":7,"prey_p_month":3},
+  {"tag_id":"Charlie","animal_sex":"m","hrs_indoors":12.5,"age_years":6,"prey_p_month":3},
+  {"tag_id":"Jago","animal_sex":"m","hrs_indoors":7.5,"age_years":2,"prey_p_month":17.5},
+  {"tag_id":"Morpheus-Tag","animal_sex":"m","hrs_indoors":2.5,"age_years":4,"prey_p_month":3},
+  {"tag_id":"Nettle-Tag","animal_sex":"f","hrs_indoors":12.5,"age_years":4,"prey_p_month":7.5},
+  {"tag_id":"Meg-Tag","animal_sex":"f","hrs_indoors":12.5,"age_years":8,"prey_p_month":3},
+  {"tag_id":"Friday","animal_sex":"m","hrs_indoors":7.5,"age_years":1,"prey_p_month":0.5},
+  {"tag_id":"Carbonel-Tag","animal_sex":"m","hrs_indoors":17.5,"age_years":8,"prey_p_month":0},
+  {"tag_id":"Fonzie-Tag","animal_sex":"m","hrs_indoors":12.5,"age_years":10,"prey_p_month":0.5},
+  {"tag_id":"Jessy-Tag","animal_sex":"f","hrs_indoors":12.5,"age_years":11,"prey_p_month":3},
+  {"tag_id":"Barney-Tag","animal_sex":"m","hrs_indoors":12.5,"age_years":11,"prey_p_month":0.5},
+  {"tag_id":"Sparky-Tag","animal_sex":"f","hrs_indoors":7.5,"age_years":8,"prey_p_month":0.5},
+  {"tag_id":"Indie-Tag","animal_sex":"m","hrs_indoors":17.5,"age_years":3,"prey_p_month":0.5},
+  {"tag_id":"Whiskey-Tag","animal_sex":"m","hrs_indoors":17.5,"age_years":5,"prey_p_month":0.5},
+  {"tag_id":"Rusty-Tag","animal_sex":"m","hrs_indoors":17.5,"age_years":4,"prey_p_month":3}
+]
